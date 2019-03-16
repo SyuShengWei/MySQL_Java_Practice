@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="org/json/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/shengwei/Desktop/MySQL_Java_Practice/json-20180813.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shengwei/Desktop/MySQL_Java_Practice/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shengwei/Desktop/MySQL_Java_Practice/mysql-connector-java-5.1.47-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
